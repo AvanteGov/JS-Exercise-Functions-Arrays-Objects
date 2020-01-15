@@ -10,7 +10,7 @@
  * For example, if we invoke `addNumbers` passing 5 and 3,
  * the returned value should be 8.
  *
- * NOTE: This example has been completed for you.
+ * NOTE: This example has been completed for you
 */
 function addNumbers(num1, num2) {
   return num1 + num2;
